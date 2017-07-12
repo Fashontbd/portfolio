@@ -34,7 +34,6 @@
         <!-- Define the first row of the table -->
         <tr>
           <th>Core4 Concept</th>
-          <p> core4 is basically Functions Variables 
           <th>Technical Definition</th>
           <th>Real-Life Analogy</th>
           <th>Python Example</th>
@@ -44,7 +43,7 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
-          <td>  </td>
+          <td>  A given comman that can change, depending on conditions or on information passed to the program </td>
           <td>  </td>
           <td>  </td>
           <td>  </td>
@@ -53,7 +52,7 @@
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
-          <td>  </td>
+          <td>  A loop is bascially a repea button for a certin comand </td>
           <td>  </td>
           <td>  </td>
           <td>  </td>
@@ -62,7 +61,7 @@
         <!-- Fill in the row for Conditionals -->
         <tr>
           <td><b>Conditionals</b></td>
-          <td>  </td>
+          <td> expressions and conditional constructs are features of a programming language, which perform different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false. </td>
           <td>  </td>
           <td>  </td>
           <td>  </td>
@@ -71,7 +70,7 @@
         <!-- Fill in the row for Functions -->
         <tr>
           <td><b>Functions</b></td>
-          <td>  </td>
+          <td>   A certin comand that is a given Procedure or a routine</td>
           <td>  </td>
           <td>  </td>
           <td>  </td>
